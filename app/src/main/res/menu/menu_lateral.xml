@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Layout Dinâmico">
+        <menu>
+            <item android:id="@+id/itemCalculadora" android:title="Calculadora" android:icon="@android:drawable/btn_star"/>
+        </menu>
+    </item>
+
+    <item android:title="Intent Implícita">
+        <menu>
+            <item android:id="@+id/itemConfiguracoes" android:title="Configurações" android:icon="@android:drawable/btn_star"/>
+        </menu>
+    </item>
+
+    <item android:title="Adaptadores">
+        <menu>
+            <item android:id="@+id/itemEstado" android:title="Estado" android:icon="@android:drawable/btn_star"/>
+            <item android:id="@+id/itemAluno" android:title="Aluno" android:icon="@android:drawable/btn_star"/>
+        </menu>
+    </item>
+
+</menu>

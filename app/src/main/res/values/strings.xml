@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">AppExemplos</string>
+
+    <string name="label_comecar">Começar</string>
+    <string name="label_voltar">Voltar</string>
+    <string name="msg_maximo_caracter">Limite de caracteres atingido.</string>
+    <string name="msg_divisao_por_zero">Não existe divisão por zero.</string>
+    <string name="msg_nao_invocar_atividade">A atividade não pode ser invocada.</string>
+
+    <string-array name="estado">
+        <item>Pará</item>
+        <item>Tocantins</item>
+        <item>Rio de Janeiro</item>
+        <item>São Paulo</item>
+        <item>Goiás</item>
+        <item>Sergipe</item>
+    </string-array>
+
+</resources>
